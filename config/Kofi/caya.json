@@ -1,0 +1,11 @@
+{
+  "latestVersion": "203.0",
+  "latestVersionCode": 203,
+  "disableRequest": {
+    "below": 203
+  },
+  "url": "https://t.me/osheden_kofi",
+  "releaseNotes": [
+    "Check the password you received during your subscription on Ko-fi to download the latest version. Contact me if you forgot it :-)"
+  ]
+}
