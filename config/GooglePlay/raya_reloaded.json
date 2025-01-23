@@ -1,8 +1,8 @@
 {
-  "latestVersion": "210.0",
-  "latestVersionCode": 210,
+  "latestVersion": "211.0",
+  "latestVersionCode": 211,
   "disableRequest": {
-    "below": 209
+    "below": 210
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.raya.reloaded",
   "releaseNotes": [
