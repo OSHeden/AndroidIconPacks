@@ -1,8 +1,8 @@
 {
-  "latestVersion": "209.0",
-  "latestVersionCode": 209,
+  "latestVersion": "210.0",
+  "latestVersionCode": 210,
   "disableRequest": {
-    "below": 208
+    "below": 209
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.alta",
   "releaseNotes": [
