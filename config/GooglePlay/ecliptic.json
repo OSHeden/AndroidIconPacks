@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0",
-  "latestVersionCode": 1,
+  "latestVersion": "200.0",
+  "latestVersionCode": 200,
   "disableRequest": {
-    "below": 1
+    "below": 199
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.ecliptic",
   "releaseNotes": [
