@@ -1,8 +1,8 @@
 {
-  "latestVersion": "224.0",
-  "latestVersionCode": 224,
+  "latestVersion": "225.0",
+  "latestVersionCode": 225,
   "disableRequest": {
-    "below": 223
+    "below": 224
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.stony",
   "releaseNotes": [
