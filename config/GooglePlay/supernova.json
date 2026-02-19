@@ -1,8 +1,8 @@
 {
-  "latestVersion": "229.0",
-  "latestVersionCode": 229,
+  "latestVersion": "230.0",
+  "latestVersionCode": 230,
   "disableRequest": {
-    "below": 228
+    "below": 229
   },
   "url": "https://play.google.com/store/apps/details?id=com.osheden.supernova",
   "releaseNotes": [
