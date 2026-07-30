@@ -1,8 +1,8 @@
 {
-  "latestVersion": "221.0",
-  "latestVersionCode": 221,
+  "latestVersion": "222.0",
+  "latestVersionCode": 222,
   "disableRequest": {
-    "below": 220
+    "below": 221
   },
   "url": "https://t.me/osheden_kofi",
   "releaseNotes": [
